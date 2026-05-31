@@ -1,0 +1,19 @@
+1. Data Loading & Initial Exploration:
+-> Loaded the raw combined_dataset.csv file into the working environment.
+-> Explored the dataset's overall structure and contents using standard pandas methods like .head(), .tail(), .shape, and .columns.
+
+2. Data Cleaning & Trimming:
+-> Addressed missing values across critical columns, including seller_name, seller_address, and discount.
+-> Dropped highly sparse and unnecessary columns such as what_customer_said, videos, and variations.
+-> Checked for and successfully handled duplicate rows to ensure data integrity.
+
+3. Targeted Filtering:
+-> Streamlined the DataFrame by selecting only the specific columns needed for analysis.
+-> Filtered out unreliable data by removing rows where the seller_name was "Unknown Seller".
+-> Isolated the best deals by filtering for rows where the discount was greater than or equal to 75%.
+
+4. Feature Engineering:
+-> Created a new, derived column named money_saved by applying a mathematical calculation to the initial_price and discount columns.
+
+5. Final Export:
+-> Saved the fully cleaned and updated DataFrame as a new, ready-to-use file named Cleaned_combined_dataset.csv.
