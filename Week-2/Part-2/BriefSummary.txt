@@ -1,0 +1,3 @@
+-> This task involved designing and implementing a relational e-commerce database using SQL in Databricks.
+-> The work included creating multiple interconnected tables, defining primary and foreign key relationships, enforcing data validation through constraints, and populating the database with sample customer, product, order, and order-item records.
+-> The implemented database simulates a real-world online shopping system and serves as a foundation for performing various SQL operations such as data retrieval, transaction processing, sales reporting, customer analysis, and inventory management.

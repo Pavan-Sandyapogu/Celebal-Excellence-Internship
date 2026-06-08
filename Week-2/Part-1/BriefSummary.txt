@@ -1,0 +1,4 @@
+-> This task focused on performing data exploration and analysis using SQL on the Superstore dataset in Databricks. 
+-> The work involved examining the dataset structure, filtering records based on business criteria such as region, category, date, and sales values, and applying aggregation functions to analyze sales, profit, and quantity metrics. 
+-> Various SQL operations including WHERE, GROUP BY, ORDER BY, LIMIT, and conditional logic were used to identify top-performing products, categories, customers, and sales trends over time. 
+-> The task also included validating data quality through row counts and null-value checks, demonstrating practical SQL skills for business intelligence, reporting, and data analytics.
