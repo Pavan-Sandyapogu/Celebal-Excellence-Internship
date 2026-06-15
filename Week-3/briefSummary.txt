@@ -1,0 +1,5 @@
+-> Setting up the workspace: It takes the main superstore_raw dataset and breaks it down into three organized tables: Customers,Products,Orders etc.
+
+-> Practiced advanced techniques: The core focus of the file is using higher-level SQL skills. It uses Subqueries, Common Table Expressions (CTEs), and Window Functions to handle complex math—like comparing an individual sale against the store's overall average, or ranking customers based on their total spend.
+
+-> Answering real business questions: The "Mini Project" section at the end treats the data like a real-world scenario. It runs specific queries to figure out things like who the top and bottom 5 customers are, which shoppers only ever bought one item, and identifying the high-rollers who spend more than the average customer.
