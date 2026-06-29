@@ -1,0 +1,5 @@
+=> Core Concepts: We explained why Spark's in-memory processing is much faster than traditional MapReduce and how network "shuffles" work.
+=> Data Cleaning: We practiced essential skills like removing duplicate rows, safely handling null values, and casting timestamps.
+=> Transformations: We wrote code to filter data by multiple conditions, group it by categories, and calculate statistics like averages.
+=> Final Pipeline: We chained all these methods together into one clean pipeline to calculate total revenue.
+=> Real Execution: Everything was successfully run using your actual sales_dataset table to show how it works in practice.
